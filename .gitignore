@@ -1,0 +1,6 @@
+
+
+# ignore Composer downloads
+/vendor/*
+vendor/
+
