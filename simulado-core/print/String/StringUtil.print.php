@@ -11,7 +11,7 @@ var_dump(7);
 
 // number of letter a in the first 1000000000000 repeated string
 var_dump(StringUtil::repeatedString('a', 1000000000000));
-var_dump(1000000000000);
+var_dump(1000000000000); 
 
 // mirror sequence of 1 to 5
 var_dump(StringUtil::mirrorSequence(1, 5));

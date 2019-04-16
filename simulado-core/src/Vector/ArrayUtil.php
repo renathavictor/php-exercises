@@ -6,12 +6,12 @@ class ArrayUtil
 
   public function __construct($array)
   {
-    // TODO
+    $this->array = $array;
   }
 
   public function rotLeft($d)
   {
-    // TODO
+    
   }
 
   public function stats()
