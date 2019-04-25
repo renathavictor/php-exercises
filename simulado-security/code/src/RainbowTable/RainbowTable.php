@@ -25,5 +25,7 @@ function array_sampling($chars, $size, $combinations = [])
 
 class RainbowTable
 {
-  // TODO
+
+
 }
+
